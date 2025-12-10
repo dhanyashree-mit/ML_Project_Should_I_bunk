@@ -35,7 +35,7 @@ Shows how confident the ML model is in its prediction.
 ---
 
 ## 📁 Project Structure
-should-i-bunk/
+-should-i-bunk
 - app.py # Flask backend (main application)
 - should_i_bunk_model.pkl # Trained Random Forest ML model
 - should_i_bunk_dataset.csv # Synthetic training dataset
