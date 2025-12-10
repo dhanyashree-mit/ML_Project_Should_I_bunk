@@ -155,8 +155,9 @@ The dataset includes the following features:
 ---
 
 ## 📷 Screenshots
-![Homepage](screenshots/homepage.png)
-![Prediction](screenshots/prediction_result.png)
+![Homepage](main_page1.png)
+![Homepage](main_page2.png)
+![Prediction](prediction.png)
 
 
 
