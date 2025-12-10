@@ -36,15 +36,16 @@ Shows how confident the ML model is in its prediction.
 
 ## 📁 Project Structure
 should-i-bunk/
-
- ### app.py # Flask backend
- ### should_i_bunk_model.pkl # Trained ML model
- ### label_encoder.pkl # (Optional) for categorical encoding
- ### should_i_bunk_dataset.csv # Synthetic training dataset
- ### ShouldIBunk.ipynb # Jupyter notebook (model training)
- ### requirements.txt # Python dependencies
-### templates/
-#### index.html # Frontend UI
+│
+├── app.py # Flask backend (main application)
+├── should_i_bunk_model.pkl # Trained Random Forest ML model
+├── should_i_bunk_dataset.csv # Synthetic training dataset
+├── ShouldIBunk.ipynb # Jupyter notebook (data creation + training)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+│
+└── templates/
+└── index.html # Frontend user interface (Jinja2 template)
 
 
 ---
